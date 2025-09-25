@@ -1,0 +1,7 @@
+business:
+  apple:
+    clientId: ai.joyland.api
+    teamId: 7F3QGC457L
+    keyId: 28UB6APJ3H
+    privateKey: MIGTAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBHkwdwIBAQQg0AwMPlh+RzWm96dmzQlZATUBtSba+7h6Nxdsq41wn3KgCgYIKoZIzj0DAQehRANCAARdmlwNPFi4Hj2PI9hYvM4pcFNqyyeJb6FVOw8mEwHGyRS9ybQmW4P66XdDxghe4bNJyxV34EsS6bgySoVLGv6+
+    callbackUrl: https://test.joyland.ai/callback/apple
