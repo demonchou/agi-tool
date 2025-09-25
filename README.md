@@ -74,7 +74,7 @@
 ```xml
 
 <dependency>
-    <groupId>com.demonchoucom.demonchou</groupId>
+    <groupId>com.demonchou</groupId>
     <artifactId>agi-common</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 </dependency>
@@ -85,7 +85,7 @@
 ```xml
 
 <dependency>
-    <groupId>com.demonchoucom.demonchou</groupId>
+    <groupId>com.demonchou</groupId>
     <artifactId>agi-pay</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 </dependency>
@@ -96,7 +96,7 @@
 ```xml
 
 <dependency>
-    <groupId>com.demonchoucom.demonchou</groupId>
+    <groupId>com.demonchou</groupId>
     <artifactId>agi-third-login</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 </dependency>
